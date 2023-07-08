@@ -1,0 +1,37 @@
+.contenedor-principal{  
+    width: 500px;
+    height: 580px;
+    padding: 10px 15px;
+    background: linear-gradient(180deg, #6468e0 0%, rgba(101, 26, 159, 0) 100%) !important;
+    box-shadow: 20px 20px 8px 6px rgba(0, 0, 0, 0.25);
+    border: 1px solid #f7f7f7;
+    border-radius: 50px;
+    position: relative;
+    top: 115px;
+}
+
+.marca{
+    width: 400px;
+    position: absolute;
+    top: 210px;
+    left: 400px;
+}
+
+.playlist{
+    width: 320px;
+    height: 320px;
+    flex-shrink: 0;
+}
+
+.titulo{
+    padding-top: 8px;
+    flex-shrink: 0;
+    color: #050404;
+    text-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25);
+    font-size: 48px;
+    font-family: Comic Neue;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+
